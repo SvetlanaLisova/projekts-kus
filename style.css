@@ -1,0 +1,227 @@
+
+div .container {position: relative;
+  width: 1440px;
+  height: 1024px;}
+    div .col-left {position: absolute;
+      background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+      width: 601px;
+      height: 1024px;
+      left: 0px;
+      top: 0px;
+      
+      background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%); }
+    div .col-right { position: absolute;
+      width: 449px;
+      height: 256px;
+      left: 76px;
+      top: 128px;}
+      div .sveiciens p{ position: absolute;
+        width: 361px;
+        height: 140px;
+        left: 121px;
+        top: 128px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 54px;
+        line-height: 70px;
+        /* or 130% */
+        
+        text-align: center;
+        
+        /* primary/white */
+        
+        color: #FFFFFF;
+        }
+        div .lab p{/* Tavas laboratorijas uzskaites sistēma */
+
+          position: absolute;
+          width: 449px;
+          height: 36px;
+          left: 76px;
+          top: 348px;
+          
+          /* header/h5 */
+          font-family: Poppins;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 24px;
+          line-height: 36px;
+          /* identical to box height */
+          text-align: center;
+          
+          /* primary/white */
+          color: #FFFFFF;
+          }
+		  div .image img{position: absolute;
+			margin: auto;
+            width: 359px;
+            height: 359px;
+            left: 121px;
+            top: 513px;
+            
+            /* primary/white */
+            
+            background: #FFFFFF;}
+            div .kotu p{position: absolute;
+              width: 474px;
+              height: 162px;
+              left: 681px;
+              top: 0px;
+              
+              font-family: Poppins;
+              font-style: normal;
+              font-weight: 500;
+              font-size: 54px;
+              line-height: 81px;
+              
+              /* primary/b200 */
+              
+              color: #0084F8;}
+			  div .inform p{position: absolute;
+				width: 634px;
+				height: 68px;
+				left: 681px;
+				top: 200px;
+
+				/* body/large */
+
+				font-family: Poppins;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 20px;
+				line-height: 170.23%;
+				/* or 34px */
+
+
+				/* secondary/d300 */
+
+				 color: #52616B;}
+				input[type=submit]{
+					position: absolute;
+				left: 0%;
+				right: 0%;
+				top: 0%;
+				bottom: 0%;
+
+				/* primary/b200 */
+
+				background: #0084F8;
+				position: absolute;
+				width: 99px;
+				height: 35px;
+				left: 681px;
+				top: 300px;
+				/*top: calc(50% - 35px/2 + 0.5px);*/
+
+				/* body/large */
+
+				font-family: Open Sans;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 20px;
+				line-height: 34px;
+				display: flex;
+				align-items: center;
+				text-align: center;
+
+				/* primary/white */
+
+				color: #FFFFFF;}
+				input[type=text]{
+					position: absolute;
+				left: 0%;
+				right: -1.76%;
+				top: 0%;
+				bottom: 0%;
+				padding: 2px 5px;
+
+				/* primary/b200 */
+
+				border: 1px solid #0084F8;
+				box-sizing: border-box;
+				position: absolute;
+				width: 241px;
+				height: 35px;
+				left: 795px;
+				top: 300px;
+				/*top: calc(50% - 35px/2 + 0.5px);*/
+
+				/* body/large */
+
+				font-family: Open Sans;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 20px;
+				line-height: 34px;
+				display: flex;
+				align-items: center;
+
+				/* primary/b200 */
+
+				color: #0084F8;
+								}
+.zila{
+	color: #0084F8;}
+
+.poga1{position: absolute;
+		
+		/* primary/b200 */
+
+		background: #0084F8;
+		
+		width: 99px;
+		height: 35px;
+		left: 681px;	
+		top: 300px;
+		/*top: calc(50% - 35px/2 + 0.5px);*/
+ 
+		/* body/large */
+
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		line-height: 34px;
+		display: flex;
+		align-items: center;
+		text-align: center;
+
+		/* primary/white */
+
+		color: #FFFFFF;}
+
+		.poga2{position: absolute;
+			
+
+			/* primary/b200 */
+
+			border: 1px solid #0084F8;
+			box-sizing: border-box;
+			/*position: relative;*/
+			width: 241px;
+			height: 35px;
+			/*bottom:3vh;*/
+			left: 795px;
+				top: 300px;
+
+			/*left: 795px;
+			top: 300px;*/
+			/*top: calc(50% - 35px/2 + 0.5px);*/
+
+			/* body/large */
+
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 20px;
+			line-height: 34px;
+			display: inline-flex;
+			align-items: center;
+
+			/* primary/b200 */
+
+			color: #0084F8}
+
+
